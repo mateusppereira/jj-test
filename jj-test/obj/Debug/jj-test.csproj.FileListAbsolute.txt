@@ -1,0 +1,6 @@
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\bin\Debug\jj-test.exe.config
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\bin\Debug\jj-test.exe
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\bin\Debug\jj-test.pdb
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\obj\Debug\jj-test.csprojResolveAssemblyReference.cache
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\obj\Debug\jj-test.exe
+c:\users\mateus.pereira\documents\pers\repo.pers\jj\jj-test\jj-test\obj\Debug\jj-test.pdb
